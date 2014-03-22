@@ -1,0 +1,7 @@
+# Compiled Sources #
+####################
+*.o
+
+# Linked Program #
+##################
+main
