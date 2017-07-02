@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+Pods/
+RxDelegateReplacement.xcworkspace/xcuserdata/
+RxDelegateReplacement.xcodeproj/xcuserdata/
+RxDelegateReplacement.xcodeproj/project.xcworkspace/xcuserdata/
